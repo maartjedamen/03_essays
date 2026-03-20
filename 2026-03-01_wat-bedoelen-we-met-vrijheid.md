@@ -1,7 +1,7 @@
 ---
 title: "Wat bedoelen we met vrijheid?"
 subtitle: "Waarom ons begrip van vrijheid democratie ondergraaft"
-series: "essay"
+series: "ongefilterd"
 date: "2026-03-10"
 tags: ["democratie", "vrijheid", "initiatiefgedreven-democratie", "ambtelijk-vakmanschap", "hannah-arendt"]
 ---
