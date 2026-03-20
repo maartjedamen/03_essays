@@ -42,3 +42,7 @@ Als vrijheid handelingsvrijheid is, dan ligt er werk. Niet alleen in grote democ
 Vrijheid om te handelen vraagt moed om te beginnen, structuren om vol te houden en empathie om bij te sturen. Dat maakt vrijheid minder een idee en meer een positie die we zelf innemen in hoe we handelen met en voor elkaar.
 
 > "Dat ik mens ben. Met andere mensen, voor andere mensen." — Paul de Blot (via Roek Lips)
+
+. 
+\
+\
