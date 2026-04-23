@@ -8,21 +8,6 @@ Student email: M.H.Damen@student.tudelft.nl
 
 Date of Submission: 19-4-2024
 
-## Author statement 
-
-The thoughts on writing this author statement form whilst repairing a vase I found on the street with a Chinese repairing method called Kintsugi. I am a building technology student, and during the first architecto-philosophical lab I, or ‘we’ received the label of being the very extreme example of reductionists within this faculty. This stuck with me.  
-
-In my personal life, I consider myself to be quite creative: the variation in hobbies I pursue is endless and chaotic: sticking with and focussing on one medium of creation seems almost impossible for my mind. The last time I sat at a desk from 9-5 I can’t remember, I don’t know if it ever even happened. I love going out and I strongly question society’s assumptions on relationship structures. These characteristics might have been the reason for me to pursue the architecture bachelor. 
-
-On the other hand, I am quite competitive: I train twice a day as a rowing athlete and have been for a few years now. Rowing, one of the more ‘pure’ sports as us rowing athletes would like to think. A competition over distance rather than play (football) or optics (acrobatics). 
-
-How did I end up in this master, why do I enjoy the methods and how did I end up with deciding to choose maybe the most reductionist sport and also graduation topic I could think of? 
-
-Why and when did I decide it would be suitable for me to separate art from academia, and pursue them on two different tracks? 
-
-There is a certain simplicity in putting reductionism in the same corner as stupidity. Reductionist behaviour is one of the more fundamental parts of human behaviour in the current society. With these thought pieces, I want to question this assumption that is made in the lectures. And if this reductionism is stupid, how do I relate to the parts of me that are functioning this way? 
-
-*It seems that these thoughts are never finished, and they seem to prefer to behave like some sort of spiderweb rather than a linear text. The thoughts generated in the past quarter would require me to take a year off just to figure the things out, but even with a course that aims to fight the reductionist boundaries and assumptions that are put into society, a time limit is set. This might be for the better, although I have been thinking and puzzling too long and thus started writing too late. Lots of room for improvement, but maybe that is why I chose this course. Thank you for the thoughts\!*
 
 ## Organism 
 
