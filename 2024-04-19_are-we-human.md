@@ -1,3 +1,10 @@
+---
+title: "Are we human?"
+subtitle: "Over flows, exosomatisatie en de vraag wat ons menselijk maakt"
+series: "anders"
+date: "2024-04-19"
+tags: ["filosofie", "architectuur", "emergentie", "homo-ludens", "flow", "collectiviteit"]
+---
 Are we human?
 
 Student Name: Maartje Damen
