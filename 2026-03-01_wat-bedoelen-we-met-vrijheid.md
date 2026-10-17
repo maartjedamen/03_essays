@@ -2,7 +2,8 @@
 title: "Wat bedoelen we met vrijheid?"
 subtitle: "Waarom ons begrip van vrijheid democratie ondergraaft"
 series: "ongefilterd"
-date: "2026-03-10"
+author: "Maartje Damen"
+date: "2026-03-01"
 tags: ["democratie", "vrijheid", "initiatiefgedreven-democratie", "ambtelijk-vakmanschap", "hannah-arendt"]
 ---
 

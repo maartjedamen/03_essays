@@ -2,7 +2,8 @@
 title: "Ik krijg het al benauwd bij het idee weer te moeten stemmen"
 subtitle: "Over schijn-toegang, begrijpelijkheid en democratische legitimiteit"
 series: "ongefilterd"
-datum:
+author: "Maartje Damen"
+date: "2025-09-25"
 tags: ["democratie", "stemmen", "begrijpelijkheid", "burgerberaad", "toegang", "gelijkheid"]
 ---
 

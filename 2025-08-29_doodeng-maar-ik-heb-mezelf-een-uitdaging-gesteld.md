@@ -2,7 +2,8 @@
 title: "Doodeng. Maar ik heb mezelf een uitdaging gesteld"
 subtitle: "Introductie bij mijn linkedin-schrijfexperiment"
 series: "ongefilterd"
-datum: ""
+author: "Maartje Damen"
+date: "2025-08-29"
 tags: ["democratie", "experimenteren", "leren", "samenleven", "ambitie", "publiek-denken"]
 ---
 

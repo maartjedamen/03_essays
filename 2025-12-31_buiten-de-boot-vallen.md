@@ -2,7 +2,8 @@
 title: "Buiten de boot vallen"
 subtitle: "Over de kwetsbare randen van gemeenschap en het recht op een veilige tussentijd"
 series: "ongefilterd"
-datum: ""
+author: "Maartje Damen"
+date: "2025-12-31"
 tags: ["democratie", "gemeenschap", "liminaliteit", "topsport", "tegenmacht", "overheid", "vertrouwen"]
 ---
 

@@ -2,7 +2,8 @@
 title: "Is dit het moment dat ik mijn democratische kennis door de mand laat vallen?"
 subtitle: "Over tegenmacht, oefenruimte en de rol van de ambtenaar"
 series: "ongefilterd"
-datum: ""
+author: "Maartje Damen"
+date: "2025-11-20"
 tags: ["tegenmacht", "ambtelijk-vakmanschap", "democratie", "oefenruimte", "burgerberaad", "verantwoordelijkheid"]
 ---
 

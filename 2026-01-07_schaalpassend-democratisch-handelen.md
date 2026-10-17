@@ -2,6 +2,8 @@
 title: "Schaalpassend democratisch handelen"
 subtitle: "Over het beschermen van democratische voorwaarden in een wereld die die voorwaarden niet deelt"
 series: "ongefilterd"
+author: "Maartje Damen"
+date: "2026-01-07"
 tags: ["schaal", "democratie", "waarden"]
 ---
 

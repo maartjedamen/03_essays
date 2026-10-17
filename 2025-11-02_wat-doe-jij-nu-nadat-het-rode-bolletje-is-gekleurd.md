@@ -2,7 +2,8 @@
 title: "Wat doe jij nu, nadat het rode bolletje is gekleurd?"
 subtitle: "Over meedoen als verantwoordelijkheid en de kracht van relationele intelligentie"
 series: "ongefilterd"
-datum: ""
+author: "Maartje Damen"
+date: "2025-11-02"
 tags: ["democratie", "meedoen", "verantwoordelijkheid", "relationele-intelligentie", "ambtelijk-vakmanschap", "vertrouwen", "gemeenschap"]
 ---
 

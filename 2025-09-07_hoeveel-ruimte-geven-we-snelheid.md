@@ -2,8 +2,9 @@
 title: "Hoeveel ruimte geven we snelheid?"
 subtitle: "Over frictie, publieke ruimte en de vrijheid om te blijven"
 series: "ongefilterd"
-datum: ""
-tags: ["gebouwde omgeving", "snelheid", "ruimte", "gemeenschap", "democratie", "ontwerp"]
+author: "Maartje Damen"
+date: "2025-09-07"
+tags: ["gebouwde-omgeving", "snelheid", "ruimte", "gemeenschap", "democratie", "ontwerp"]
 ---
 
 Publieke ruimte is nooit neutraal. Waar begint het? Hoe ontwerp je voor een doelgroep die verandert, rijk is aan variatie en nauwelijks te vangen in cijfers? En hoe speelt ruimtelijk ontwerp een rol in het oplossen van de grote vraagstukken van deze tijd?

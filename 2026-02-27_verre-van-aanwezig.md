@@ -1,10 +1,10 @@
 ---
-title: "Verre van aanwezig"
-subtitle: "Nabijheid als ontbrekende schakel in de ruimtelijke opgave"
+title: "Verre van aanwezig: nabijheid als ontbrekende schakel in de ruimtelijke opgave"
+subtitle: "Wat het sociale domein al lang weet"
 series: "media"
-tags: ["lokaliteit", "gebouwde omgeving", "overheid", "verbinding"]
+author: "Maartje Damen"
 date: "2026-02-27"
-
+tags: ["lokaliteit", "gebouwde-omgeving", "overheid", "verbinding"]
 externalUrl: "https://www.binnenlandsbestuur.nl/carriere/wyzer/verre-van-aanwezig-nabijheid-ontbrekende-schakel-ruimtelijke"
 externalLabel: "Binnenlands Bestuur"
 ---
@@ -23,9 +23,9 @@ Er liggen grote lessen verscholen in de manier van werken in het sociaal domein.
 ## Waarom projectlogica nabijheid verdringt
 Het fysieke domein is sterk gefocust op projectmatig en sectoraal werken. Het sociaal domein weet al veel langer: Om écht mensgerichte stappen te zetten, moet je blijven. Je moet aanwezig zijn. Zonder het inbedden van wijkgericht werken ontbreken vroegsignalering, contextkennis en dagelijks bewonersbegrip. Signalen zijn er wel, maar landen te laat in het proces om richtinggevend te zijn.
 
-Het coalitie-akkoord zet groot in op wonen: Om dat te realiseren, kunnen we in elke wijk al beginnen. Minder bezwaar ontstaat uit meer nabijheid. Draagvlak creëren is meestal een teken dat het al te laat is: het proces gaat nog wel een tijdje duren. Willen we minder procedures? Dat beperkt zich niet alleen tot het schrappen van regels, het vraagt echt om meer relationele kwaliteit vooraf.
+Het coalitieakkoord zet groot in op wonen: Om dat te realiseren, kunnen we in elke wijk al beginnen. Minder bezwaar ontstaat uit meer nabijheid. Draagvlak creëren is meestal een teken dat het al te laat is: het proces gaat nog wel een tijdje duren. Willen we minder procedures? Dat beperkt zich niet alleen tot het schrappen van regels, het vraagt echt om meer relationele kwaliteit vooraf.
 
-Versnelling vraagt nabijheid, geen ingewikkelde procedures
+## Versnelling vraagt nabijheid, geen ingewikkelde procedures
 Eigenaarschap ontstaat niet door instemming, maar door betrokkenheid bij het ontstaan. Wie zich mede-eigenaar voelt van een ontwikkeling, herkent de uitdagingen, herkent zijn eigen stem maar ook de stem van de buren. En zo biedt de Omgevingswet niet alleen maar uitdagingen op het vlak van participatie, maar ook vooral een kans om met een fris perspectief naar onze manier van werken te kijken. Het mooie is: voor dat perspectief hoeven we niet ver te zoeken.
 
 ## Structurele aanwezigheid in elke wijk

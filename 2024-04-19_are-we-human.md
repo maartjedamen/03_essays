@@ -2,20 +2,10 @@
 title: "Are we human?"
 subtitle: "Over flows, exosomatisatie en de vraag wat ons menselijk maakt"
 series: "anders"
+author: "Maartje Damen"
 date: "2024-04-19"
 tags: ["filosofie", "architectuur", "emergentie", "homo-ludens", "flow", "collectiviteit"]
 ---
-Are we human?
-
-Student Name: Maartje Damen
-
-Student ID: 4716736
-
-Student email: M.H.Damen@student.tudelft.nl
-
-Date of Submission: 19-4-2024
-
-
 ## Organism 
 
 #### *Flow as the carrier of energy* 

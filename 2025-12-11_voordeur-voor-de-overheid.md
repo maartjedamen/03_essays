@@ -2,8 +2,9 @@
 title: "Impactgedreven democratie"
 subtitle: "Hoe initiatief, rechtvaardigheid en ambtelijk vakmanschap samenkomen in een nieuwe voordeur van de overheid"
 series: "anders"
-tags: ["democratie", "initiatief", "overheid", "AI", "systeemontwerp"]
+author: "Maartje Damen"
 date: "2025-12-11"
+tags: ["democratie", "initiatief", "overheid", "ai", "systeemontwerp"]
 ---
 
 “We are at a crisis of trust,” hoorde ik Jacqueline van den Ende zeggen bij The School for Moral Ambition. En terwijl het vertrouwen wegzakt, zien ambtenaren zichzelf steeds vaker als uitvoerders die vooral naar boven moeten kijken. Het politieke primaat, de verantwoordingsdruk, de juridische dreiging: alles trekt hun aandacht weg van wat ze in wezen zijn.

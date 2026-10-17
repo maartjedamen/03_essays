@@ -2,7 +2,8 @@
 title: "Initiatief wordt beloond"
 subtitle: "Over sociaal kapitaal, generalised reciprocity en ambtelijk vakmanschap"
 series: "ongefilterd"
-datum: ""
+author: "Maartje Damen"
+date: "2025-12-13"
 tags: ["sociaal-kapitaal", "gemeenschap", "ambtelijk-vakmanschap", "democratie", "vertrouwen", "pluralisme"]
 ---
 

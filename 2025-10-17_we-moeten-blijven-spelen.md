@@ -2,7 +2,8 @@
 title: "We moeten blijven spelen"
 subtitle: "Over spel als training voor veerkracht en democratische verbeelding"
 series: "ongefilterd"
-datum: ""
+author: "Maartje Damen"
+date: "2025-10-17"
 tags: ["spel", "veerkracht", "sport", "verbeelding", "instituties", "democratie"]
 ---
 
